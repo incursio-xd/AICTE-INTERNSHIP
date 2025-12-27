@@ -401,9 +401,9 @@ in the Software without restriction...
 **Your Name**
 
 - 🌐 GitHub: [@incursio-xd](https://github.com/incursio-xd)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/incursio)
+- 💼 LinkedIn: [@aman](https://linkedin.com/in/incursio)
 - 📧 Email: amannathjha14@gmail.com
-- 🌍 Portfolio: [yourportfolio.com](https://incursio-xd.github.io/portfolio2/)
+- 🌍 Portfolio: [@aman](https://incursio-xd.github.io/portfolio2/)
 
 ## 🙏 Acknowledgments
 
